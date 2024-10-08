@@ -1,0 +1,69 @@
+{
+  "articles": [
+    {
+      "title": "Understanding JavaScript Closures",
+      "description": "A deep dive into closures in JavaScript and how to use them effectively.",
+      "body": "In this article, we will explore closures in JavaScript. Closures are a fundamental concept...",
+      "tagList": ["JavaScript", "Closures", "Programming"],
+      "createdAt": "2023-10-01T12:00:00Z",
+      "updatedAt": "2023-10-01T12:00:00Z",
+      "author": {
+        "username": "john_doe",
+        "bio": "JavaScript developer and enthusiast.",
+        "image": "http://i.imgur.com/xyz.jpg",
+        "following": false
+      },
+      "favoritesCount": 10,
+      "slug": "understanding-javascript-closures"
+    },
+    {
+      "title": "An Introduction to Node.js",
+      "description": "Learn about Node.js, its features, and how to build a simple server.",
+      "body": "Node.js is a powerful JavaScript runtime built on Chrome's V8 engine. It allows you to build...",
+      "tagList": ["Node.js", "JavaScript", "Backend"],
+      "createdAt": "2023-10-02T14:30:00Z",
+      "updatedAt": "2023-10-02T14:30:00Z",
+      "author": {
+        "username": "jane_smith",
+        "bio": "Backend developer with a passion for JavaScript.",
+        "image": "http://i.imgur.com/abc.jpg",
+        "following": true
+      },
+      "favoritesCount": 5,
+      "slug": "introduction-to-nodejs"
+    },
+    {
+      "title": "CSS Grid vs Flexbox",
+      "description": "A comparison of CSS Grid and Flexbox layouts with practical examples.",
+      "body": "In this article, we will compare CSS Grid and Flexbox, two powerful layout systems. We'll look at...",
+      "tagList": ["CSS", "Web Design", "Layouts"],
+      "createdAt": "2023-10-03T09:15:00Z",
+      "updatedAt": "2023-10-03T09:15:00Z",
+      "author": {
+        "username": "alice_johnson",
+        "bio": "Web designer and front-end developer.",
+        "image": "http://i.imgur.com/def.jpg",
+        "following": false
+      },
+      "favoritesCount": 7,
+      "slug": "css-grid-vs-flexbox"
+    },
+    {
+      "title": "Getting Started with React",
+      "description": "Learn the basics of React and how to create your first component.",
+      "body": "React is a popular JavaScript library for building user interfaces. In this article, we will cover...",
+      "tagList": ["React", "JavaScript", "Frontend"],
+      "createdAt": "2023-10-04T16:45:00Z",
+      "updatedAt": "2023-10-04T16:45:00Z",
+      "author": {
+        "username": "mike_williams",
+        "bio": "Full-stack developer specializing in React.",
+        "image": "http://i.imgur.com/ghi.jpg",
+        "following": true
+      },
+      "favoritesCount": 20,
+      "slug": "getting-started-with-react"
+    }
+  ],
+  "articlesCount": 4
+}
