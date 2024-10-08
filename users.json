@@ -1,0 +1,40 @@
+{
+  "users": [
+    {
+      "username": "john_doe",
+      "email": "john@example.com",
+      "bio": "JavaScript developer and tech enthusiast.",
+      "image": "http://i.imgur.com/xyz.jpg",
+      "following": false
+    },
+    {
+      "username": "jane_smith",
+      "email": "jane@example.com",
+      "bio": "Backend developer with a passion for Node.js.",
+      "image": "http://i.imgur.com/abc.jpg",
+      "following": true
+    },
+    {
+      "username": "alice_johnson",
+      "email": "alice@example.com",
+      "bio": "Web designer and front-end developer.",
+      "image": "http://i.imgur.com/def.jpg",
+      "following": false
+    },
+    {
+      "username": "mike_williams",
+      "email": "mike@example.com",
+      "bio": "Full-stack developer specializing in React.",
+      "image": "http://i.imgur.com/ghi.jpg",
+      "following": true
+    },
+    {
+      "username": "sara_connor",
+      "email": "sara@example.com",
+      "bio": "AI and Machine Learning enthusiast.",
+      "image": "http://i.imgur.com/jkl.jpg",
+      "following": false
+    }
+  ],
+  "usersCount": 5
+}
